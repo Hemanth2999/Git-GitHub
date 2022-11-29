@@ -1,6 +1,6 @@
 #!/bin/bash
 I=0
-while [ $I -lt 15 ]
+while [ $I -lt 12 ]
 do 
 echo $I
 sleep 2
