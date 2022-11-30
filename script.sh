@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in {1..10}
+for i in {1..12}
 do
 if [ $(expr $i % 2) -eq 0 ]
 then
